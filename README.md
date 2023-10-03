@@ -60,3 +60,14 @@ NSFW
 
 #### [Oogabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
 A Gradio web UI for Large Language Models.
+
+
+
+## Personality specifications
+
+#### W++
+The format example:
+
+Personality ( "cute" + "gentle" + "intelligent" + "etc" ) Loves ( "food" + "etc" ) 
+
+#### Natural language
