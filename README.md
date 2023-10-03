@@ -1,5 +1,7 @@
 # Awesome Role-Play Chatbots
-A curated list of AI Role-Play Chatbots and services
+A curated list of AI Role-Play Chatbots and services.
+
+To suggest the updates or edits, contact me on [Reddit](https://www.reddit.com/r/starlightrobotics/) or [Discord](https://discord.gg/zarD7dweKz).
 
 ## Online services and Apps
 
@@ -20,6 +22,14 @@ A curated list of AI Role-Play Chatbots and services
 * Offers both a desktop and mobile experience.
 * Sleek interface, though the character selection feels limited.
 
+#### Crushon AI
+* Offers uncensored communication with AI chatbots, including NSFW content
+* Free plan only allows 50 messages per month
+
+#### Charstar AI
+
+#### Venus Chub AI
+
 #### [Harpy AI Chat](https://harpy.chat/)
 * Bears resemblance to Janitor in its design.
 
@@ -34,7 +44,12 @@ A curated list of AI Role-Play Chatbots and services
 * Uncertain if Snapchat conversations might be used for AI training.
 
 
-## LLMs
+## LLMs / Models
 
 #### Pygmalion
 Pygmalion-2 70B
+
+
+## LLMs / UIs and WebUIs
+
+#### 
