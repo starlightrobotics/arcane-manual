@@ -56,11 +56,17 @@ NSFW
 
 #### [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
 
+[KoboldAI Discord](https://koboldai.org/discord)
+
+[Kobold AI Website](https://koboldai.org/pygmalion)
+
+[AI Horde](https://aihorde.net/)
+
 #### [TavernAI](https://github.com/TavernAI/TavernAI)
 
 #### [SillyTavern](https://docs.sillytavern.app/)
 
-The recommended open-source frontend for running our Pygmalion models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
+An open-source frontend for running Pygmalion models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
 
 [Discord](https://discord.gg/sillytavern)
 
