@@ -34,9 +34,13 @@ To suggest the updates or edits, contact me on [Reddit](https://www.reddit.com/r
 * Bears resemblance to Janitor in its design.
 
 #### [FlowGPT AI Character](https://flowgpt.com/?category=character)
+A large prompting community for various needs. Runs many events and has their on-demand model interaction service.
+
 * A generous offer of free and unrestricted access.
 * Hosts an array of virtual personalities, many based on ChatGPT 3.5. Some even more advanced options with ChatGPT 4.
 * Bonus for creators: Ability to upload custom datasets for unique character customizations.
+
+[FlowGPT Discord](https://discord.com/invite/tWZGzcpTkf)
 
 #### [Replika](https://replika.com/)
 * Branded as the "most human-like AI roleplay chatbot" by Snapchat.
@@ -56,6 +60,8 @@ NSFW
 
 #### [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
 
+From providing user donated backends as workers, and providing an application interface for running all sort of models - it is PygmalionAI's pick for running models locally.
+
 [KoboldAI Discord](https://koboldai.org/discord)
 
 [Kobold AI Website](https://koboldai.org/pygmalion)
@@ -64,16 +70,23 @@ NSFW
 
 #### [TavernAI](https://github.com/TavernAI/TavernAI)
 
+The original frontend. It lacks the options for the user on their chatting experience, however it is still very usable.
+
 #### [SillyTavern](https://docs.sillytavern.app/)
 
 An open-source frontend for running Pygmalion models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
 
 [Discord](https://discord.gg/sillytavern)
 
-#### [Oogabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
-A Gradio web UI for Large Language Models.
+#### [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
+Shortened as Oobawooga, it is an interface in the same looks as Stable Diffusion. It has more features, and compatibility compared to KoboldAI running models locally, especially at smaller bit sizes. However, due to its frequent updates, it may be unstable at times.
 
+[Oobabooga Discord](https://discord.gg/WKkMQYB4zu)
 
+#### [Agnaistic](https://agnai.chat/)
+An open-source web based AI agnostic roleplay chat. The backend for chats: NovelAI, Horde, or other services. It can be ran locally, or use the production website.
+
+[Agnaistic Discord](https://discord.gg/luminai)
 
 ## Personality specifications
 
