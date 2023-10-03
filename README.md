@@ -1,5 +1,5 @@
-# Awesome Role-Play Chatbots
-A curated list of AI Role-Play Chatbots and services.
+# Awesome Role-playing chatbots
+A curated list of AI Role-playing Chatbots, services, apps, and offline tools.
 
 To suggest the updates or edits, contact me on [Reddit](https://www.reddit.com/r/starlightrobotics/) or [Discord](https://discord.gg/zarD7dweKz).
 
