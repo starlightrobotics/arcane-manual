@@ -46,10 +46,15 @@ To suggest the updates or edits, contact me on [Reddit](https://www.reddit.com/r
 
 ## LLMs / Models
 
-#### Pygmalion
-Pygmalion-2 70B
+#### [PygmalionAI](https://github.com/PygmalionAI)
+[All models](https://huggingface.co/PygmalionAI)
 
+#### [Manticore-13B](https://huggingface.co/mindrage/Manticore-13B-Chat-Pyg-Guanaco-GGML)
+NSFW
 
 ## LLMs / UIs and WebUIs
 
-#### 
+#### Kobold
+
+#### [Oogabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
+A Gradio web UI for Large Language Models.
