@@ -56,5 +56,7 @@ NSFW
 
 #### Kobold
 
+#### Tavern AI
+
 #### [Oogabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
 A Gradio web UI for Large Language Models.
