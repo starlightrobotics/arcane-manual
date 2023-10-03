@@ -64,7 +64,7 @@ From providing user donated backends as workers, and providing an application in
 
 [KoboldAI Discord](https://koboldai.org/discord)
 
-[Kobold AI Website](https://koboldai.org/pygmalion)
+[KoboldAI Website](https://koboldai.org/pygmalion)
 
 [AI Horde](https://aihorde.net/)
 
@@ -86,7 +86,7 @@ Shortened as Oobawooga, it is an interface in the same looks as Stable Diffusion
 #### [Agnaistic](https://agnai.chat/)
 An open-source web based AI agnostic roleplay chat. The backend for chats: NovelAI, Horde, or other services. It can be ran locally, or use the production website.
 
-[Agnaistic Discord](https://discord.gg/luminai)
+[Agnaistic Discord (current link expired)](https://discord.gg/luminai)
 
 ## Personality specifications
 
