@@ -54,9 +54,9 @@ NSFW
 
 ## LLMs / UIs and WebUIs
 
-#### Kobold
+#### [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
 
-#### Tavern AI
+#### [TavernAI](https://github.com/TavernAI/TavernAI)
 
 #### [Oogabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
 A Gradio web UI for Large Language Models.
