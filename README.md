@@ -22,7 +22,7 @@ To suggest the updates or edits, contact me on [Reddit](https://www.reddit.com/r
 * Offers both a desktop and mobile experience.
 * Sleek interface, though the character selection feels limited.
 
-#### Crushon AI
+#### [Crushon AI](https://crushon.ai/)
 * Offers uncensored communication with AI chatbots, including NSFW content
 * Free plan only allows 50 messages per month
 
