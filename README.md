@@ -58,6 +58,12 @@ NSFW
 
 #### [TavernAI](https://github.com/TavernAI/TavernAI)
 
+#### [SillyTavern](https://docs.sillytavern.app/)
+
+The recommended open-source frontend for running our Pygmalion models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
+
+[Discord](https://discord.gg/sillytavern)
+
 #### [Oogabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
 A Gradio web UI for Large Language Models.
 
