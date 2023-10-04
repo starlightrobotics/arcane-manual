@@ -51,7 +51,7 @@ A large prompting community for various needs. Runs many events and has their on
 ## LLMs / Models
 
 #### [PygmalionAI](https://github.com/PygmalionAI)
-[All models](https://huggingface.co/PygmalionAI)
+All models: [HuggingFace](https://huggingface.co/PygmalionAI)
 
 #### [Manticore-13B](https://huggingface.co/mindrage/Manticore-13B-Chat-Pyg-Guanaco-GGML)
 NSFW
