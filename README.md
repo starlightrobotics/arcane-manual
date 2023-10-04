@@ -56,6 +56,9 @@ A large prompting community for various needs. Runs many events and has their on
 #### [Manticore-13B](https://huggingface.co/mindrage/Manticore-13B-Chat-Pyg-Guanaco-GGML)
 NSFW
 
+#### [SynthIA](https://huggingface.co/TheBloke/Synthia-7B-v1.3-GGUF)
+NSFW, Uncensored LLM, trained on Mistral
+
 ## LLMs / UIs and WebUIs
 
 #### [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
