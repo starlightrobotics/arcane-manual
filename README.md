@@ -65,11 +65,11 @@ NSFW, Uncensored LLM, trained on Mistral
 
 From providing user donated backends as workers, and providing an application interface for running all sort of models - it is PygmalionAI's pick for running models locally.
 
-[KoboldAI Discord](https://koboldai.org/discord)
+Discord: [KoboldAI](https://koboldai.org/discord)
 
-[KoboldAI Website](https://koboldai.org/pygmalion)
+Website: [KoboldAI](https://koboldai.org/pygmalion)
 
-[AI Horde](https://aihorde.net/)
+Community: [AI Horde](https://aihorde.net/)
 
 #### [TavernAI](https://github.com/TavernAI/TavernAI)
 
@@ -79,17 +79,17 @@ The original frontend. It lacks the options for the user on their chatting exper
 
 An open-source frontend for running Pygmalion models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
 
-[Discord](https://discord.gg/sillytavern)
+Discord: [SillyTavern](https://discord.gg/sillytavern)
 
 #### [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
 Shortened as Oobawooga, it is an interface in the same looks as Stable Diffusion. It has more features, and compatibility compared to KoboldAI running models locally, especially at smaller bit sizes. However, due to its frequent updates, it may be unstable at times.
 
-[Oobabooga Discord](https://discord.gg/WKkMQYB4zu)
+Discord: [Oobabooga](https://discord.gg/WKkMQYB4zu)
 
 #### [Agnaistic](https://agnai.chat/)
 An open-source web based AI agnostic roleplay chat. The backend for chats: NovelAI, Horde, or other services. It can be ran locally, or use the production website.
 
-[Agnaistic Discord (current link expired)](https://discord.gg/luminai)
+Discord: [Agnaistic (link broken)](https://discord.gg/luminai)
 
 ## Personality specifications
 
