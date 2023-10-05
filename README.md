@@ -97,16 +97,16 @@ Website: [KoboldAI](https://koboldai.org/pygmalion)
 
 The original frontend. It lacks the options for the user on their chatting experience, however it is still very usable.
 
+#### [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
+Oobabooga is a web interface, in the same look as Stable Diffusion Web UI by Automatic1111. It has more features, and compatibility compared to KoboldAI running models locally.
+
+Discord: [Oobabooga](https://discord.gg/WKkMQYB4zu)
+
 #### [SillyTavern](https://docs.sillytavern.app/)
 
 An open-source frontend for running LLM models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
 
 Discord: [SillyTavern](https://discord.gg/sillytavern)
-
-#### [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
-Oobabooga is a web interface. It has more features, and compatibility compared to KoboldAI running models locally.
-
-Discord: [Oobabooga](https://discord.gg/WKkMQYB4zu)
 
 #### [Agnaistic](https://agnai.chat/)
 An open-source web based AI agnostic roleplay chat. The backend for chats: NovelAI, Horde, or other services. It can be ran locally, or use the production website.
