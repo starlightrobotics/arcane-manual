@@ -89,6 +89,9 @@ Recommendations for levels:
 
 [Ayumi's LLM Role Play & ERP Ranking](https://rentry.co/ayumi_erp_rating)
 
+For awareness, the scores are NOT representative of quality of prose, performance across the entire context window (i.e. ability to effectively recall information accurately), stability (i.e. logical flow, coherence) and actual RP performance. There are many models that score well that perform very poorly with actual use 
+For example, in October 2023, Mythomax scores worse, but is better than a majority of the models that score better than it.
+
 ## LLMs / UIs and WebUIs
 
 #### [Kobold.CPP](https://github.com/LostRuins/koboldcpp)
