@@ -1,4 +1,5 @@
-# Awesome Role-playing Censored and Uncensored models and chatbots
+# ARCANE: AI Role-playing Chatbots And Novel Entities
+#### Awesome Role-playing Censored and Uncensored models and chatbots
 *by Starlight Robotics*
 
 This is a curated list of AI Role-playing LLMs, Chatbots, services, apps, interfaces, offline tools, and hardware. This list provides insight for where to start, and reference links for seasoned developers.
