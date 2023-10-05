@@ -5,6 +5,9 @@ To suggest the updates or edits, contact me on [Reddit](https://www.reddit.com/r
 
 ## Online services and Apps
 
+#### [AI Horde](https://aihorde.net/)
+* Community for open-source text generation and image generation
+
 #### [Character AI](https://beta.character.ai/)
 * A favorite for roleplaying enthusiasts and at $5 billion valuation as of 2023.
 * Allows users to design avatars and interact with AI entities having unique personalities.
