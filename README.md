@@ -56,6 +56,9 @@ A large prompting community for various needs. Runs many events and has their on
 #### [PygmalionAI](https://github.com/PygmalionAI)
 All models: [HuggingFace](https://huggingface.co/PygmalionAI)
 
+#### [Mythalion 13B](https://huggingface.co/PygmalionAI/mythalion-13b)
+A merge of Pygmalion-2 13B and MythoMax 13B
+
 #### [Manticore-13B](https://huggingface.co/mindrage/Manticore-13B-Chat-Pyg-Guanaco-GGML)
 NSFW
 
@@ -73,9 +76,6 @@ This is a Llama 2-based model consisting of a merge of several models using a we
 
 
 ## LLMs / UIs and WebUIs
-
-#### [Mythalion 13B](https://huggingface.co/PygmalionAI/mythalion-13b)
-A merge of Pygmalion-2 13B and MythoMax 13B
 
 #### [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
 
