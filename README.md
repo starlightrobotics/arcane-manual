@@ -82,6 +82,8 @@ This is a Llama 2-based model consisting of a merge of several models using a we
 
 #### [Kobold.CPP](https://github.com/LostRuins/koboldcpp)
 
+KoboldCpp is an easy-to-use AI text-generation software for GGML models. It's a single self contained distributable from Concedo, that builds off llama.cpp, and adds a versatile Kobold API endpoint, additional format support, backward compatibility, as well as a fancy UI with persistent stories, editing tools, save formats, memory, world info, author's note, characters, scenarios and everything Kobold and Kobold Lite have to offer.
+
 #### [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
 
 From providing user donated backends as workers, and providing an application interface for running all sort of models - it is PygmalionAI's pick for running models locally.
