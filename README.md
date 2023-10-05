@@ -2,7 +2,7 @@
 #### Awesome Role-playing Censored and Uncensored models and chatbots
 *by Starlight Robotics*
 
-This is a curated list of AI Role-playing LLMs, Chatbots, services, apps, interfaces, offline tools, and hardware. This list provides insight for where to start, and reference links for seasoned developers.
+ARCANE Manual is a curated repository of AI Role-playing LLMs, chatbots, services, apps, interfaces, offline tools, and hardware tips. This manual provides insight for where to start, and reference links for seasoned developers.
 
 To suggest the updates or edits, contact me on [Reddit](https://www.reddit.com/r/starlightrobotics/) or [Discord](https://discord.gg/zarD7dweKz).
 
