@@ -77,6 +77,15 @@ This is a Llama 2-based model consisting of a merge of several models using a we
     lemonilia/limarp-llama2-v2
     PygmalionAI/pygmalion-2-13b
 
+## LLMs / Levels
+
+Recommendations for levels:
+
+    7b: Mistral and its variants, especially Mistral-OpenOrca and Mistral-instruct
+    13b: Mythomax and its variants, Athena
+    33b: Airoboros, Chronoboros
+    20b: Emerhyst, MLewd-remm-l2-chat
+    70b+: Xwin, Synthia 1.2
 
 ## LLMs / UIs and WebUIs
 
