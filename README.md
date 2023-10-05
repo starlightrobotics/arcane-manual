@@ -1,4 +1,4 @@
-# ARCANE: AI Role-playing Chatbots And Novel Entities
+# ARCANE Manual: AI Role-playing Chatbots And Novel Entities
 #### Awesome Role-playing Censored and Uncensored models and chatbots
 *by Starlight Robotics*
 
