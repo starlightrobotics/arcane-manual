@@ -61,6 +61,9 @@ NSFW, Uncensored LLM, trained on Mistral
 
 ## LLMs / UIs and WebUIs
 
+#### [Mythalion 13B](https://huggingface.co/PygmalionAI/mythalion-13b)
+A merge of Pygmalion-2 13B and MythoMax 13B
+
 #### [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
 
 From providing user donated backends as workers, and providing an application interface for running all sort of models - it is PygmalionAI's pick for running models locally.
