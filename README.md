@@ -80,6 +80,8 @@ This is a Llama 2-based model consisting of a merge of several models using a we
 
 ## LLMs / UIs and WebUIs
 
+#### [Kobold.CPP](https://github.com/LostRuins/koboldcpp)
+
 #### [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
 
 From providing user donated backends as workers, and providing an application interface for running all sort of models - it is PygmalionAI's pick for running models locally.
@@ -88,7 +90,6 @@ Discord: [KoboldAI](https://koboldai.org/discord)
 
 Website: [KoboldAI](https://koboldai.org/pygmalion)
 
-Community: [AI Horde](https://aihorde.net/)
 
 #### [TavernAI](https://github.com/TavernAI/TavernAI)
 
@@ -96,12 +97,12 @@ The original frontend. It lacks the options for the user on their chatting exper
 
 #### [SillyTavern](https://docs.sillytavern.app/)
 
-An open-source frontend for running Pygmalion models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
+An open-source frontend for running LLM models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
 
 Discord: [SillyTavern](https://discord.gg/sillytavern)
 
 #### [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
-Shortened as Oobawooga, it is an interface in the same looks as Stable Diffusion. It has more features, and compatibility compared to KoboldAI running models locally, especially at smaller bit sizes. However, due to its frequent updates, it may be unstable at times.
+Oobabooga is a web interface. It has more features, and compatibility compared to KoboldAI running models locally.
 
 Discord: [Oobabooga](https://discord.gg/WKkMQYB4zu)
 
