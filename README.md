@@ -88,7 +88,9 @@ An open-source web based AI agnostic roleplay chat. The backend for chats: Novel
 
 Discord: [Agnaistic (link broken)](https://discord.gg/luminai)
 
-## Personality specifications
+## Personality specifications for AIs
+
+Sample prompts and character sheets by [Botprompts](https://botprompts.net/)
 
 #### W++
 The format example:
@@ -96,3 +98,4 @@ The format example:
 Personality ( "cute" + "gentle" + "intelligent" + "etc" ) Loves ( "food" + "etc" ) 
 
 #### Natural language
+
