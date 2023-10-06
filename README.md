@@ -36,13 +36,15 @@ This is a Llama 2-based model consisting of a merge of several models using a we
     lemonilia/limarp-llama2-v2
     PygmalionAI/pygmalion-2-13b
 
-## LLMs / Levels and Ranking
+## LLMs / Lists and Ranking
 
 [🤗 Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 [Another LLM Roleplay Rankings](https://rentry.co/ALLMRR)
 
 [Ayumi's LLM Role Play & ERP Ranking (NSFW)](https://rentry.co/ayumi_erp_rating)
+
+[Wiki by r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/wiki/models/)
 
 For awareness, the scores are NOT representative of quality of prose, performance across the entire context window (i.e. ability to effectively recall information accurately), stability (i.e. logical flow, coherence) and actual RP performance. There are many models that score well that perform very poorly with actual use 
 For example, in October 2023, Mythomax scores worse, but is better than a majority of the models that score better than it.
@@ -54,6 +56,8 @@ Recommendations for levels:
     33b: Airoboros, Chronoboros
     20b: Emerhyst, MLewd-remm-l2-chat
     70b+: Xwin, Synthia 1.2
+
+
 
 ## LLMs / UIs and WebUIs
 
