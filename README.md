@@ -10,7 +10,7 @@ To suggest the updates or edits, contact me on [Reddit](https://www.reddit.com/r
 
 [Online services and apps](online-services.md) are available, paid and free.
 
-[Chatbot Frameworks](chatbot-framewords.md) for public presence.
+[Chatbot Frameworks](chatbot-frameworks.md) for public presence.
 
 ## LLMs / Models
 
