@@ -1,9 +1,11 @@
 # Popular Chatbot Frameworks
 
 ## Frameworks
-* Dialogflow
+* Google Dialogflow
 * IBM Watson
+* Amazon Lex
 * Microsoft Bot Framework
+* RASA (Open Source)
 
 ## Apps
 * Slack
