@@ -12,6 +12,8 @@ To suggest the updates or edits, contact me on [Reddit](https://www.reddit.com/r
 
 [Chatbot Frameworks](chatbot-frameworks.md) for public presence.
 
+[Challenges](challenges.md)
+
 ## LLMs / Models
 
 ### [PygmalionAI](https://github.com/PygmalionAI)
