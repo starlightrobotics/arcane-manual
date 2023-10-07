@@ -1,6 +1,10 @@
-# What can I run on Nvidia 4090 / 24 Gb VRAM?
+# Hardware requirements
 
 Performance by HuggingFace can be found in [🤗 LLM-Perf Leaderboard 🏋️](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)
+
+
+## What can I run on Nvidia 4090 / 24 Gb VRAM?
+
 
 As of October 2023, 4090 can handle most 30B LLMs.
 
