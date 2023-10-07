@@ -2,8 +2,7 @@
 
 ## Communities
 
-#### [AI Horde](https://aihorde.net/)
-* Free community for open-source text generation and image generation
+* [AI Horde](https://aihorde.net/) - Free community for open-source text generation and image generation
 
 ## Services / SFW
 #### [Character AI](https://beta.character.ai/)
