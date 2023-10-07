@@ -1,5 +1,7 @@
 # What can I run on Nvidia 4090 / 24 Gb VRAM?
 
+Performance by HuggingFace can be found in [🤗 LLM-Perf Leaderboard 🏋️](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)
+
 As of October 2023, 4090 can handle most 30B LLMs.
 
 8bit ExLlama2 Mythomax-13B with extended context and still have vram to spare, with performance being ~40 t/s.
