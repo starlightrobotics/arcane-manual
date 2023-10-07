@@ -48,7 +48,7 @@ Recommendations for levels:
     20b: Emerhyst, MLewd-remm-l2-chat
     70b+: Xwin, Synthia 1.2
 
-Models for coding can be found in (⭐ Big Code Models Leaderboard)[https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard]
+Models for coding can be found in [⭐ Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard).
 
 ## LLMs / UIs and WebUIs
 
