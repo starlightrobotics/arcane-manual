@@ -55,8 +55,5 @@ A large prompting community for various needs. Runs many events and has their on
 
 ## Services / NSFW-specific
 
-#### [Erogen](https://erogen.ai)
-Free and open
-
-#### [Unhinged](https://unhinged.ai)
-Free and open
+* [Erogen](https://erogen.ai) - Free and open
+* [Unhinged](https://unhinged.ai) - Free and open
