@@ -4,7 +4,10 @@
 
 * [AI Horde](https://aihorde.net/) - Free community for open-source text generation and image generation
 
-## Services / SFW
+## Writing Services
+* [NovelAI](https://novelai.net/) - Free trial
+
+## Role-Play Services / SFW
 #### [Character AI](https://beta.character.ai/)
 * A favorite for roleplaying enthusiasts and at $5 billion valuation as of 2023.
 * Allows users to design avatars and interact with AI entities having unique personalities.
@@ -12,7 +15,7 @@
 
 
 
-## Services / NSFW-allowed
+## Role-Play Services / NSFW-allowed
 
 #### [Replika](https://replika.com/)
 * Branded as the "most human-like AI roleplay chatbot" by Snapchat.
@@ -52,7 +55,7 @@ A large prompting community for various needs. Runs many events and has their on
 [FlowGPT Discord](https://discord.com/invite/tWZGzcpTkf)
 
 
-## Services / NSFW-specific
+## Role-Play Services / NSFW-specific
 
 * [Erogen](https://erogen.ai) - Free and open
 * [Unhinged](https://unhinged.ai) - Free and open
