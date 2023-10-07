@@ -1,12 +1,24 @@
 # Online services and Apps
 
-#### [AI Horde](https://aihorde.net/)
-* Community for open-source text generation and image generation
+## Communities
 
+#### [AI Horde](https://aihorde.net/)
+* Free community for open-source text generation and image generation
+
+## Services / SFW
 #### [Character AI](https://beta.character.ai/)
 * A favorite for roleplaying enthusiasts and at $5 billion valuation as of 2023.
 * Allows users to design avatars and interact with AI entities having unique personalities.
 * NSFW content not supported.
+
+
+
+## Services / NSFW-allowed
+
+#### [Replika](https://replika.com/)
+* Branded as the "most human-like AI roleplay chatbot" by Snapchat.
+* Delivers a broad experience, notably in companionship roles.
+* Uncertain if Snapchat conversations might be used for AI training.
 
 #### [Janitor AI](https://www.janitorai.com/)
 * Excels in sparking impromptu roleplaying and diverse conversations.
@@ -20,13 +32,13 @@
 * Offers both a desktop and mobile experience.
 * Sleek interface, though the character selection feels limited.
 
-#### [Crushon AI](https://crushon.ai/)
-* Offers uncensored communication with AI chatbots, including NSFW content
-* Free plan only allows 50 messages per month
-
 #### Charstar AI
 
 #### Venus Chub AI
+
+#### [Crushon AI](https://crushon.ai/)
+* Offers uncensored communication with AI chatbots, including NSFW content
+* Free plan only allows 50 messages per month
 
 #### [Harpy AI Chat](https://harpy.chat/)
 * Bears resemblance to Janitor in its design.
@@ -40,7 +52,11 @@ A large prompting community for various needs. Runs many events and has their on
 
 [FlowGPT Discord](https://discord.com/invite/tWZGzcpTkf)
 
-#### [Replika](https://replika.com/)
-* Branded as the "most human-like AI roleplay chatbot" by Snapchat.
-* Delivers a broad experience, notably in companionship roles.
-* Uncertain if Snapchat conversations might be used for AI training.
+
+## Services / NSFW-specific
+
+#### [Erogen](https://erogen.ai)
+Free and open
+
+#### [Unhinged](https://unhinged.ai)
+Free and open
