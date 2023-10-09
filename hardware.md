@@ -2,6 +2,11 @@
 
 Performance by HuggingFace can be found in [🤗 LLM-Perf Leaderboard 🏋️](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)
 
+## CPU/RAM vs GPU/VRAM
+
+In practice you do not need GPU for VRAM. If you have access to CPU with an equivalent VRAM, then you can get away with slower, but still functional system.
+
+**Example:** Falcon 180B will not fit into NVidia 4090, but it will fit into a system with 128 Gb of RAM.
 
 ## What can I run on Nvidia 4090 / 24 Gb VRAM?
 
