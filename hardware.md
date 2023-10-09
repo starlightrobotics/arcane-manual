@@ -8,6 +8,8 @@ In practice you do not need GPU for VRAM. If you have access to CPU with an equi
 
 **Example:** Falcon 180B will not fit into NVidia 4090, but it will fit into a system with 128 Gb of RAM.
 
+RAM considerations: 1 DIMM per 1 memory channel. If your Motherboard has 2 channels - even if you have 8 RAM sticks, it is not going to change much. Long story short: 2x48 Gb > 4x32 Gb in some cases.
+
 ## What can I run on Nvidia 4090 / 24 Gb VRAM?
 
 
