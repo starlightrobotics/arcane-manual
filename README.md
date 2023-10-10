@@ -8,6 +8,8 @@ To suggest the updates or edits, contact me on [Reddit](https://www.reddit.com/r
 
 [Hardware](hardware.md) is needed to run LLMs locally.
 
+[Deployment](deployment.md) of your own LLM.
+
 [Online services and apps](online-services.md) are available, paid and free.
 
 [Chatbot Frameworks](chatbot-frameworks.md) for public presence.
