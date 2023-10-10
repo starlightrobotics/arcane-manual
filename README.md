@@ -16,6 +16,8 @@ To suggest the updates or edits, contact me on [Reddit](https://www.reddit.com/r
 
 [Challenges](challenges.md)
 
+Image generation models can be found on [CivitAI](https://civitai.com/)
+
 ## LLMs / Models
 
 * [PygmalionAI](https://github.com/PygmalionAI) - 
