@@ -56,20 +56,22 @@ Models for coding can be found in [⭐ Big Code Models Leaderboard](https://hugg
 
 ## LLMs / UIs and WebUIs
 
-* [Kobold.CPP](https://github.com/LostRuins/koboldcpp) - <details>
+* [Kobold.CPP](https://github.com/LostRuins/koboldcpp)
+ <details>
   <summary>Details</summary>
       KoboldCpp is an easy-to-use AI text-generation software for GGML models. It's a single self contained distributable from Concedo, that builds off llama.cpp, and adds a versatile Kobold API endpoint, additional format support, backward compatibility, as well as a fancy UI with persistent stories, editing tools, save formats, memory, world info, author's note, characters, scenarios and everything Kobold and Kobold Lite have to offer.
 </details>
 
 
-#### [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
-
+* [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
+ <details>
+  <summary>Details</summary>
 From providing user donated backends as workers, and providing an application interface for running all sort of models - it is PygmalionAI's pick for running models locally.
 
 Discord: [KoboldAI](https://koboldai.org/discord)
 
 Website: [KoboldAI](https://koboldai.org/pygmalion)
-
+</details>
 
 #### [TavernAI](https://github.com/TavernAI/TavernAI)
 
