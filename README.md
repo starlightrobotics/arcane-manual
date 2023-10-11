@@ -56,14 +56,14 @@ Models for coding can be found in [⭐ Big Code Models Leaderboard](https://hugg
 
 ## LLMs / UIs and WebUIs
 
-* [Kobold.CPP](https://github.com/LostRuins/koboldcpp)
+#### [Kobold.CPP](https://github.com/LostRuins/koboldcpp)
  <details>
   <summary>Details</summary>
       KoboldCpp is an easy-to-use AI text-generation software for GGML models. It's a single self contained distributable from Concedo, that builds off llama.cpp, and adds a versatile Kobold API endpoint, additional format support, backward compatibility, as well as a fancy UI with persistent stories, editing tools, save formats, memory, world info, author's note, characters, scenarios and everything Kobold and Kobold Lite have to offer.
 </details>
 
 
-* [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
+#### [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
  <details>
   <summary>Details</summary>
 From providing user donated backends as workers, and providing an application interface for running all sort of models - it is PygmalionAI's pick for running models locally.
@@ -74,13 +74,18 @@ Website: [KoboldAI](https://koboldai.org/pygmalion)
 </details>
 
 #### [TavernAI](https://github.com/TavernAI/TavernAI)
-
+ <details>
+  <summary>Details</summary>
 The original frontend. It lacks the options for the user on their chatting experience, however it is still very usable.
+</details>
 
 #### [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
+ <details>
+  <summary>Details</summary>
 Oobabooga is a web interface, in the same look as Stable Diffusion Web UI by Automatic1111. It has more features, and compatibility compared to KoboldAI running models locally.
 
 Discord: [Oobabooga](https://discord.gg/WKkMQYB4zu)
+</details>
 
 #### [SillyTavern](https://docs.sillytavern.app/)
 
