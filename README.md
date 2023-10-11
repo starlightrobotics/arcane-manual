@@ -14,7 +14,7 @@ To suggest the updates or edits, contact me on [Reddit](https://www.reddit.com/r
 
 [Chatbot Frameworks](chatbot-frameworks.md) for public presence.
 
-[Challenges and Limits](challenges.md)
+[Challenges and Limits](challenges.md) that we face and need to be solved.
 
 Image generation models can be found on [CivitAI](https://civitai.com/)
 
