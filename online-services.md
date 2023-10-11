@@ -2,7 +2,8 @@
 
 ## Communities
 
-* [AI Horde](https://aihorde.net/) - Free community for open-source text generation and image generation
+* [AI Horde](https://aihorde.net/) - Free community for open-source text generation and image generation with hardware
+* [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) - biggest subreddit about local LLMs
 
 ## Ranking
 * [Rankings site for NSFW chatbots](https://nsfw-chatbot-rankings.web.app/#/)
