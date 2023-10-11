@@ -88,15 +88,20 @@ Discord: [Oobabooga](https://discord.gg/WKkMQYB4zu)
 </details>
 
 #### [SillyTavern](https://docs.sillytavern.app/)
-
+ <details>
+  <summary>Details</summary>
 An open-source frontend for running LLM models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
 
 Discord: [SillyTavern](https://discord.gg/sillytavern)
+</details>
 
 #### [Agnaistic](https://agnai.chat/)
+ <details>
+  <summary>Details</summary>
 An open-source web based AI agnostic roleplay chat. The backend for chats: NovelAI, Horde, or other services. It can be ran locally, or use the production website.
 
 Discord: [Agnaistic (link broken)](https://discord.gg/luminai)
+</details>
 
 ## Personality specifications for AIs
 
