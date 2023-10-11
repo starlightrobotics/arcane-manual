@@ -1,5 +1,5 @@
-# ARCANE Manual: **A**I **R**ole-playing **C**hatbots **A**nd **N**ovel **E**ntities
-#### Curated manual of Awesome Role-playing Censored and Uncensored models and chatbots
+# ARCANE Manual: AI Role-playing Chatbots And Novel Entities
+
 *by Starlight Robotics*
 
 ARCANE Manual is a curated repository of AI Role-playing LLMs, chatbots, services, apps, interfaces, offline tools, and hardware tips. This manual provides insight for where to start, and reference links for seasoned developers.
