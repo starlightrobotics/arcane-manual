@@ -4,6 +4,9 @@
 
 * [AI Horde](https://aihorde.net/) - Free community for open-source text generation and image generation
 
+## Ranking
+* [Rankings site for NSFW chatbots](https://nsfw-chatbot-rankings.web.app/#/)
+
 ## Writing Services
 * [NovelAI](https://novelai.net/) - Free trial
 
