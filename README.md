@@ -55,6 +55,8 @@ Recommendations for levels:
 
 ## LLMs / UIs and WebUIs
 
+Some of the UIs, like SillyTavern, also have APIs, that can be used for own coding projects and automation.
+
 #### [Kobold.CPP](https://github.com/LostRuins/koboldcpp)
  <details>
   <summary>Details</summary>
@@ -92,6 +94,8 @@ Discord: [Oobabooga](https://discord.gg/WKkMQYB4zu)
 An open-source frontend for running LLM models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
 
 Discord: [SillyTavern](https://discord.gg/sillytavern)
+
+API Documentation for [SillyTavern](https://docs.sillytavern.app/usage/api-connections/)
 </details>
 
 #### [Agnaistic](https://agnai.chat/)
