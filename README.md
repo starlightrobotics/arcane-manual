@@ -44,13 +44,16 @@ All models: [HuggingFace](https://huggingface.co/PygmalionAI), Most popular of w
 For awareness, the scores are NOT representative of quality of prose, performance across the entire context window (i.e. ability to effectively recall information accurately), stability (i.e. logical flow, coherence) and actual RP performance. There are many models that score well that perform very poorly with actual use 
 For example, in October 2023, Mythomax scores worse, but is better than a majority of the models that score better than it.
 
-Recommendations for levels:
+Recommendations for levels as of October 2023:
 
     7b: Mistral and its variants, especially Mistral-OpenOrca and Mistral-instruct
     13b: Mythomax and its variants, Athena
     33b: Airoboros, Chronoboros
     20b: Emerhyst, MLewd-remm-l2-chat
     70b+: Xwin, Synthia 1.2
+
+**GGUF vs GGML?**
+GGUF is positioned as an upgrade to GGML, offering more flexibility, extensibility, and compatibility. It aims to simplify the user experience and accommodate various models beyond llama. cpp. GGML, while a valuable early effort, had limitations that GGUF seeks to overcome.
 
 
 ## LLMs / UIs and WebUIs
