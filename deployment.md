@@ -9,4 +9,6 @@ You need a model and an interface of your choice.
 
 ## Adding LLM files
 
-## Adding speech
+## Adding speech synthesis (Text-To-Speech)
+
+## Adding speech recognition (Speech-To-Text)
