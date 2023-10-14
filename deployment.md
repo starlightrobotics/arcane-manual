@@ -9,7 +9,4 @@ You need a model and an interface of your choice.
 
 ## Adding LLM files
 
-## Interfaces
-
-* CLI
-* Web Interface
+## Adding speech
