@@ -4,21 +4,23 @@
 
 ARCANE Manual is a curated repository of AI Role-playing LLMs, chatbots, services, apps, interfaces, offline tools, and hardware tips. This manual provides insight for where to start, and reference links for seasoned developers.
 
-To suggest updates or edits, contact me on [Reddit](https://www.reddit.com/r/starlightrobotics/) or [Discord](https://discord.gg/zarD7dweKz).
-
 Local:
-* [Hardware](hardware.md) is needed to run LLMs locally.
-* [LLM Deployment](deployment.md) of your own LLM.
-* [Chatbot Frameworks](chatbot-frameworks.md) for public presence.
+* [Hardware](hardware.md) is needed to run LLMs locally
+* [LLM Deployment](deployment.md) of your own LLM
+* [Chatbot Frameworks](chatbot-frameworks.md) for public presence
 * [Specialist models](specialist-models.md) - medicine, finance, law
 * [⭐ Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - coding models
 
 Online:
-* [Online services and apps](online-services.md) for Role-play are available, paid and free.
+* [Online services and apps](online-services.md) for Role-play are available, paid and free
 * Image generation models can be found on [CivitAI](https://civitai.com/)
 
 Advancements:
-* [Challenges and Limits](challenges.md) that we face and need to be solved.
+* [Challenges and Limits](challenges.md) that we face and need to be solved
+
+Help:
+* ARCANE Manual has a [FAQ](faq.md) section
+* To suggest updates and edits or just introduce yourself, you can contact me on [Reddit](https://www.reddit.com/r/starlightrobotics/) or [Discord](https://discord.gg/zarD7dweKz)
 
 ## LLMs / Models
 
