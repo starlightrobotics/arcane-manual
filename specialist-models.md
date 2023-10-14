@@ -12,3 +12,4 @@
 ## Finance
 
 * [finance-LLM](https://huggingface.co/AdaptLLM/finance-LLM) by AdaptLLM
+* [BloombergGPT](https://huggingface.co/papers/2303.17564)
