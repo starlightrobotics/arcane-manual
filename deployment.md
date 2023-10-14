@@ -10,5 +10,7 @@ You need a model and an interface of your choice.
 ## Adding LLM files
 
 ## Adding speech synthesis (Text-To-Speech)
+* In [SillyTavern](https://docs.sillytavern.app/extras/extensions/tts/)
 
 ## Adding speech recognition (Speech-To-Text)
+* In [SillyTavern](https://docs.sillytavern.app/extras/extensions/speech-recognition/)
