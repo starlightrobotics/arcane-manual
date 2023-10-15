@@ -12,6 +12,9 @@
 * [NovelAI](https://novelai.net/) - Free trial
 * [SassBook](https://sassbook.com/ai-story-writer) - Free, with premium plans
 
+## Vision LLMs
+* [LLaVA](http://llava.hliu.cc/)
+
 ## Role-Play Services / SFW
 #### [Character AI](https://beta.character.ai/) - A favorite for roleplaying enthusiasts and at $5 billion valuation as of 2023. Allows users to design avatars and interact with AI entities having unique personalities. *NSFW content not supported*.
 
