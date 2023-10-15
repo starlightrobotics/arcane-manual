@@ -18,7 +18,12 @@
 ## Role-Play Services / SFW
 #### [Character AI](https://beta.character.ai/) - A favorite for roleplaying enthusiasts and at $5 billion valuation as of 2023. Allows users to design avatars and interact with AI entities having unique personalities. *NSFW content not supported*.
 
+## Role-Play Services / NSFW-specific
 
+* [Erogen](https://erogen.ai) - Free and open
+* [Unhinged](https://unhinged.ai) - Free and open
+* [AIChatFriend](https://charfriend.com/) - Freemium, 100 texts/day. Uses Charphinx-13b
+* [SakuraFM](https://www.sakura.fm/) - Open Source 13B with Images and Speech
 
 ## Role-Play Services / NSFW-allowed
 
@@ -59,9 +64,4 @@ A large prompting community for various needs. Runs many events and has their on
 
 [FlowGPT Discord](https://discord.com/invite/tWZGzcpTkf)
 
-## Role-Play Services / NSFW-specific
 
-* [Erogen](https://erogen.ai) - Free and open
-* [Unhinged](https://unhinged.ai) - Free and open
-* [AIChatFriend](https://charfriend.com/) - Freemium, 100 texts/day. Uses Charphinx-13b
-* [Sakura](https://www.sakura.fm/) - Open Source 13B with Images and Speech
