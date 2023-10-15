@@ -59,9 +59,9 @@ A large prompting community for various needs. Runs many events and has their on
 
 [FlowGPT Discord](https://discord.com/invite/tWZGzcpTkf)
 
-
 ## Role-Play Services / NSFW-specific
 
 * [Erogen](https://erogen.ai) - Free and open
 * [Unhinged](https://unhinged.ai) - Free and open
 * [AIChatFriend](https://charfriend.com/) - Freemium, 100 texts/day. Uses Charphinx-13b
+* [Sakura](https://www.sakura.fm/) - Open Source 13B with Images and Speech
