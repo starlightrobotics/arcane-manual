@@ -38,6 +38,7 @@ Locally, outside of the SUPER expensive workstation devices, 4x 4090s could prob
 **8-bit Model Requirements for GPU inference**
 
 | Model	              | VRAM Used	| Card examples	| RAM/Swap to Load | 
+| -------- | ------- | ------- | ------- |
 | LLaMA 7B / Llama 2  7B |	10GB	| 3060 12GB, 3080 10GB	| 24 GB| 
 | LLaMA 13B / Llama 2 13B	| 20GB	 | 3090, 3090 Ti, 4090	| 32 GB |
 | LLaMA 33B / Llama 2 34B	| ~40GB	 | A6000 48GB, A100 40GB	| ~64 GB |
