@@ -50,7 +50,6 @@ Locally, outside of the SUPER expensive workstation devices, 4x 4090s could prob
 **4-bit Model Requirements for GPU inference**
 
 | Model	| Minimum Total VRAM	| Card examples	| RAM/Swap to Load |
-
 | -------- | ------- | ------- | ------- |
 | LLaMA 7B / Llama 2 7B	  | 6GB	| GTX 1660, 2060, AMD 5700 XT, RTX 3050, 3060 |	6 GB |
 | LLaMA 13B / Llama 2 13B	| 10GB	| AMD 6900 XT, RTX 2060 12GB, 3060 12GB, 3080, A2000	| 12 GB |
