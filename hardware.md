@@ -35,6 +35,7 @@ Locally, outside of the SUPER expensive workstation devices, 4x 4090s could prob
 
 ## LLaMA hardware requirements
 *source: [r/LocalLLaMMa](https://www.reddit.com/r/LocalLLaMA/comments/11o6o3f/how_to_install_llama_8bit_and_4bit/)*
+
 **8-bit Model Requirements for GPU inference**
 
 | Model	              | VRAM Used	| Card examples	| RAM/Swap to Load | 
@@ -46,11 +47,14 @@ Locally, outside of the SUPER expensive workstation devices, 4x 4090s could prob
 
 *System RAM, not VRAM, required to load the model, in addition to having enough VRAM. Not required to run the model. You can use swap space if you do not have enough RAM.
 
-4-bit Model Requirements for GPU inference
-Model	Minimum Total VRAM	Card examples	RAM/Swap to Load*
-LLaMA 7B / Llama 2 7B	6GB	GTX 1660, 2060, AMD 5700 XT, RTX 3050, 3060	6 GB
-LLaMA 13B / Llama 2 13B	10GB	AMD 6900 XT, RTX 2060 12GB, 3060 12GB, 3080, A2000	12 GB
-LLaMA 33B / Llama 2 34B	~20GB	RTX 3080 20GB, A4500, A5000, 3090, 4090, 6000, Tesla V100	~32 GB
-LLaMA 65B / Llama 2 70B	~40GB	A100 40GB, 2x3090, 2x4090, A40, RTX A6000, 8000	~64 GB
+**4-bit Model Requirements for GPU inference**
+
+| Model	| Minimum Total VRAM	| Card examples	| RAM/Swap to Load |
+
+| -------- | ------- | ------- | ------- |
+| LLaMA 7B / Llama 2 7B	  | 6GB	| GTX 1660, 2060, AMD 5700 XT, RTX 3050, 3060 |	6 GB |
+| LLaMA 13B / Llama 2 13B	| 10GB	| AMD 6900 XT, RTX 2060 12GB, 3060 12GB, 3080, A2000	| 12 GB |
+| LLaMA 33B / Llama 2 34B	| ~20GB	| RTX 3080 20GB, A4500, A5000, 3090, 4090, 6000, Tesla V100	| ~32 GB |
+| LLaMA 65B / Llama 2 70B	| ~40GB	| A100 40GB, 2x3090, 2x4090, A40, RTX A6000, 8000	| ~64 GB |
 
 *System RAM, not VRAM, required to load the model, in addition to having enough VRAM. Not required to run the model. You can use swap space if you do not have enough RAM.
