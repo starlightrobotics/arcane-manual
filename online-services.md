@@ -23,7 +23,7 @@
 * [Erogen](https://erogen.ai) - Free and open
 * [Unhinged](https://unhinged.ai) - Free and open
 * [AIChatFriend](https://charfriend.com/) - Freemium, 100 texts/day. Uses Charphinx-13b
-* [SakuraFM](https://www.sakura.fm/) - Open Source 13B with Images and Speech
+* [SakuraFM](https://www.sakura.fm/) - Open Source 13B with Images and Speech, also has an app
 
 ## Role-Play Services / NSFW-allowed
 
