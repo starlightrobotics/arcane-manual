@@ -57,3 +57,14 @@ Locally, outside of the SUPER expensive workstation devices, 4x 4090s could prob
 | LLaMA 65B / Llama 2 70B	| ~40GB	| A100 40GB, 2x3090, 2x4090, A40, RTX A6000, 8000	| ~64 GB |
 
 *System RAM, not VRAM, required to load the model, in addition to having enough VRAM. Not required to run the model. You can use swap space if you do not have enough RAM.
+
+**llama.cpp Requirements for CPU inference**
+
+| Model	| Original Size	| Quantized Size (4-bit)| 
+| -------- | ------- | ------- | 
+| 7B	| 13 GB	| 3.9 GB |
+| 13B	| 24 GB	| 7.8 GB |
+| 33B	| 60 GB	| 19.5 GB |
+| 65B	| 120 GB	| 38.5 GB |
+
+As the models are currently fully loaded into memory, you will need adequate disk space to save them and sufficient RAM to load them. At the moment, memory and disk requirements are the same.
