@@ -35,6 +35,12 @@ All models: [HuggingFace](https://huggingface.co/PygmalionAI), Most popular of w
 
 * [CalliopeDS](https://huggingface.co/Doctor-Shotgun/CalliopeDS-L2-13B) - This is a Llama 2-based model consisting of a merge of several models using a weight-adjusted TIES merge (Resolving Interference When Merging Models): jondurbin/airoboros-l2-13b-2.2, elinas/chronos-13b-v2, NousResearch/Nous-Hermes-Llama2-13b, lemonilia/limarp-llama2-v2,   PygmalionAI/pygmalion-2-13b.
 
+**Language-Vision models**
+
+* LLaVA - trained on LLaMA 2
+* BakLLaVA - trained on Mistral
+
+
 ## LLMs / Lists and Ranking
 
 * [🤗 Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
