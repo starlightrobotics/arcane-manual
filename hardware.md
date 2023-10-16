@@ -15,7 +15,7 @@ RAM considerations: 1 DIMM per 1 memory channel. If your Motherboard has 2 chann
 
 As of October 2023, 4090 can handle most 30B LLMs.
 
-8bit ExLlama2 Mythomax-13B with extended context and still have vram to spare, with performance being ~40 t/s.
+8bit ExLlama2 Mythomax-13B with extended context and still have vram to spare, with performance being 20-40 t/s.
 
 Mistral model uses something called grouped query attention to reduce VRAM utilization for the context, so it would use less.
 This is the max quality exl2 [Mythomax](https://huggingface.co/QMB15/mythomax-13B-8.13bit-MAX-exl2).
