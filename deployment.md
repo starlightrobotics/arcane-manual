@@ -14,7 +14,3 @@ You need a model and an interface of your choice.
 
 ## Adding speech recognition (Speech-To-Text)
 * In [SillyTavern](https://docs.sillytavern.app/extras/extensions/speech-recognition/)
-
-## Language-Vision models:
-* LLaVA - trained on LLaMA 2
-* BakLLaVA - trained on Mistral
