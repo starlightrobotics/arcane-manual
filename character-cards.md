@@ -1,4 +1,4 @@
-# Creating a high queality Character Card
+# Creating a high quality Character Card
 
 Character Card is something, that discribes the character or a personality of your AI (chatbot).
 
