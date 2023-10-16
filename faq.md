@@ -3,7 +3,7 @@
 1. **What do I need to start?** -
    * **Locally** - [Hardware](hardware.md) + User Interface + LLM
    * **Cloud** - User Interface + API
-   * **Web services** - [List](online-servces.md)
+   * **Web services** - [List](online-services.md)
 
 3. **Do I need GPU?** - You do not need GPU to run LLMs. You can run them on CPU + Equivalent RAM. GPU makes models run faster.
 
