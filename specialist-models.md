@@ -3,6 +3,9 @@
 ## Writing models
 * [Plot_BOT V3 13b GPTQ](https://huggingface.co/FPHam/Plot_BOT_V3_13b_GPTQ) - Uncensored plot crafting and writing assistant
 
+## Data analysis
+* [Pandalyst 7B](https://huggingface.co/pipizhao/Pandalyst-7B-V1.2)
+
 ## Clinical and Medical
 
 * [MED42 70B](https://huggingface.co/m42-health/med42-70b) based on Llama 2
