@@ -1,5 +1,8 @@
 # Specialist models
 
+## Writing models
+* [Plot_BOT V3 13b GPTQ](https://huggingface.co/FPHam/Plot_BOT_V3_13b_GPTQ) - Uncensored plot crafting and writing assistant
+
 ## Clinical and Medical
 
 * [MED42 70B](https://huggingface.co/m42-health/med42-70b) based on Llama 2
