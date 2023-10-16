@@ -117,6 +117,8 @@ An open-source web based AI agnostic roleplay chat. The backend for chats: Novel
 Discord: [Agnaistic (link broken)](https://discord.gg/luminai)
 </details>
 
+#### [oterm](https://github.com/ggozad/oterm) - CLI UI
+
 ## Personality specifications for AIs
 
 Sample prompts and character sheets by [Botprompts](https://botprompts.net/)
