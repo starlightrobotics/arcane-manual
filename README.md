@@ -38,7 +38,7 @@ All models: [HuggingFace](https://huggingface.co/PygmalionAI), Most popular of w
 **Language-Vision models**
 
 * LLaVA - trained on LLaMA 2
-* BakLLaVA - trained on Mistral
+* BakLLaVA-1 - fine-tuned on Mistral
 
 
 ## LLMs / Lists and Ranking
