@@ -91,7 +91,7 @@ Website: [KoboldAI](https://koboldai.org/pygmalion)
 The original frontend. It lacks the options for the user on their chatting experience, however it is still very usable.
 </details>
 
-#### [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)
+#### [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) - Front-End
  <details>
   <summary>Details</summary>
 Oobabooga is a web interface, in the same look as Stable Diffusion Web UI by Automatic1111. It has more features, and compatibility compared to KoboldAI running models locally.
@@ -99,7 +99,7 @@ Oobabooga is a web interface, in the same look as Stable Diffusion Web UI by Aut
 Discord: [Oobabooga](https://discord.gg/WKkMQYB4zu)
 </details>
 
-#### [SillyTavern](https://docs.sillytavern.app/)
+#### [SillyTavern](https://docs.sillytavern.app/) - Back-End
  <details>
   <summary>Details</summary>
 An open-source frontend for running LLM models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
