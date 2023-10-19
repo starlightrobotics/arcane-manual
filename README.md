@@ -99,7 +99,7 @@ Oobabooga is a web interface, in the same look as Stable Diffusion Web UI by Aut
 Discord: [Oobabooga](https://discord.gg/WKkMQYB4zu)
 </details>
 
-#### [SillyTavern](https://docs.sillytavern.app/) - Back-End
+#### [SillyTavern](https://docs.sillytavern.app/) - Power-user Front-End
  <details>
   <summary>Details</summary>
 An open-source frontend for running LLM models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
