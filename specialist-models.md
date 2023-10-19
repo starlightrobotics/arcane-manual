@@ -10,6 +10,7 @@
 
 * [MED42 70B](https://huggingface.co/m42-health/med42-70b) based on Llama 2
 * [medicine-LLM](https://huggingface.co/AdaptLLM/medicine-LLM) by AdaptLLM
+* [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext) by Microsoft
 
 ## Law and Legal
 
