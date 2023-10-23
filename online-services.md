@@ -6,7 +6,7 @@
 * [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) - biggest subreddit about local LLMs
 
 ## Ranking
-* [Rankings site for NSFW chatbots](https://nsfw-chatbot-rankings.web.app/#/)
+* [Rankings site for online NSFW chatbots](https://nsfw-chatbot-rankings.web.app/#/)
 
 ## Writing Services
 * [NovelAI](https://novelai.net/) - Free trial
