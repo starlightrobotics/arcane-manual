@@ -17,6 +17,7 @@ Online:
 
 Advancements:
 * [Challenges and Limits](challenges.md) that we face and need to be solved
+* [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent#human-interaction-simulation) - source for papers, specifically [Human Interaction Simulation](Awesome LLM-Powered Agent)
 
 Help:
 * ARCANE Manual has a [FAQ](faq.md) section
