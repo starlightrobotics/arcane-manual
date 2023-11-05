@@ -1,4 +1,4 @@
-# ARCANE Manual: AI Role-playing Chatbots And Novel Entities
+# ARCANE Manual: Advaced Refined Customised Artificial Neural Entities
 
 *by Starlight Robotics*
 
