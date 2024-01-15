@@ -55,11 +55,11 @@ For example, in October 2023, Mythomax scores worse, but is better than a majori
 
 Recommendations for levels as of October 2023:
 
-    7b: Mistral and its variants, especially Mistral-OpenOrca and SynthIA - Mistral-7B in some cases already outperforms GPT-3.5
+    7b: Neural Chat V3, Mistral
     13b: Mythomax and its variants, Athena
     20b: Emerhyst, MLewd-remm-l2-chat
     33b: Airoboros, Chronoboros
-    70b+: Xwin, Synthia 1.5 - 70B outperform GPT-3.5 and rival GPT4
+    70b+: Euryale Inverted L2, Xwin, Synthia 1.5 - 70B outperform GPT-3.5 and rival GPT4
 
 
 ## LLMs / UIs and WebUIs
