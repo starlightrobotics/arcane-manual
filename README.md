@@ -25,12 +25,12 @@ Help:
 
 ## LLMs / Models
 
+**The 2023 LLMs that made some noise**
+
 * [PygmalionAI](https://github.com/PygmalionAI) - 
 All models: [HuggingFace](https://huggingface.co/PygmalionAI), Most popular of which as of October 2023 is [Mythalion 13B](https://huggingface.co/PygmalionAI/mythalion-13b) - A merge of Pygmalion-2 13B and MythoMax 13B
 
 * [MythoMax 13B](https://huggingface.co/Gryphe/MythoMax-L2-13b) - by Gryphe. Uncensored.
-
-* [Manticore-13B](https://huggingface.co/mindrage/Manticore-13B-Chat-Pyg-Guanaco-GGML) - Uncensored.
 
 * Mistral 7B and [SynthIA](https://huggingface.co/TheBloke/Synthia-7B-v1.3-GGUF) - Uncensored, trained on Mistral
 
