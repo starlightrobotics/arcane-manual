@@ -47,6 +47,7 @@ All models: [HuggingFace](https://huggingface.co/PygmalionAI), Most popular of w
 * [🤗 Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 * [Another LLM Roleplay Rankings](https://rentry.co/ALLMRR)
 * [Ayumi's LLM Role Play & ERP Ranking (NSFW)](https://rentry.co/ayumi_erp_rating)
+* [BestERP](https://besterp.ai/s/models)
 * [Rankings site for online NSFW chatbots](https://nsfw-chatbot-rankings.web.app/#/)
 * [Wiki by r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/wiki/models/)
 
