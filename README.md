@@ -122,8 +122,6 @@ Discord: [Agnaistic (link broken)](https://discord.gg/luminai)
 
 ## Personality specifications for AIs
 
-Sample prompts and character sheets by [Botprompts](https://botprompts.net/)
-
 #### W++
 The format example:
 
