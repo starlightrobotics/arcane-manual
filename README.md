@@ -44,12 +44,14 @@ All models: [HuggingFace](https://huggingface.co/PygmalionAI), Most popular of w
 
 ## LLMs / Lists and Ranking
 
-* [🤗 Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
-* [Another LLM Roleplay Rankings](https://rentry.co/ALLMRR)
-* [Ayumi's LLM Role Play & ERP Ranking (NSFW)](https://rentry.co/ayumi_erp_rating)
+* GitHub: [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+
+* HF: [🤗 Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+* Rentry: [Another LLM Roleplay Rankings](https://rentry.co/ALLMRR)
+* Rentry: [Ayumi's LLM Role Play & ERP Ranking (NSFW)](https://rentry.co/ayumi_erp_rating)
 * [BestERP](https://besterp.ai/s/models)
 * [Rankings site for online NSFW chatbots](https://nsfw-chatbot-rankings.web.app/#/)
-* [Wiki by r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/wiki/models/)
+* Reddit: [Wiki by r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/wiki/models/)
 
 For awareness, the scores are NOT representative of quality of prose, performance across the entire context window (i.e. ability to effectively recall information accurately), stability (i.e. logical flow, coherence) and actual RP performance. There are many models that score well that perform very poorly with actual use 
 For example, in October 2023, Mythomax scores worse, but is better than a majority of the models that score better than it.
