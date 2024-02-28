@@ -6,7 +6,7 @@ You need a model and an interface of your choice.
 
 * [Oobabooga Text Generation UI](https://github.com/oobabooga/text-generation-webui) now supports one-click install
 * [SillyTavern](https://docs.sillytavern.app/) for [Windows](https://docs.sillytavern.app/installation/windows/), [Linux & Mac](https://docs.sillytavern.app/installation/linuxmacos/). There is also a [Simple Launcher](https://sillytavernai.com/st-simplelauncher/) available.
-* https://github.com/huggingface/chat-ui - clean UI with very good web search, my go to currently. (they added the ability to do it all locally very recently!)
+* [ChatUI](https://github.com/huggingface/chat-ui) - UI with web search.
 * https://github.com/ParisNeo/lollms-webui/ - Has PDF, stable diffusion and web search integration
 * https://github.com/h2oai/h2ogpt - Has PDF, Web search, best for files ingestion (supports many file formats)
 * https://github.com/NimbleBoxAI/ChainFury - Has great UI and web search (experimental)
