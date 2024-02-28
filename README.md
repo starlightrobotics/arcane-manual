@@ -6,7 +6,7 @@ ARCANE Manual is a curated repository of AI Role-playing LLMs, chatbots, service
 
 Local:
 * [Hardware](hardware.md) is needed to run LLMs locally
-* [LLM Deployment](deployment.md) of your own LLM
+* [LLM Deployment and User Interface](deployment-and-ui.md) of your own LLM
 * [Chatbot Frameworks](chatbot-frameworks.md) for public presence
 * [Specialist models](specialist-models.md) - medicine, finance, law
 * [⭐ Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - coding models
