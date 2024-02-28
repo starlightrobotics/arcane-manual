@@ -12,6 +12,7 @@ You need a model and an interface of your choice.
 * https://github.com/NimbleBoxAI/ChainFury - Has great UI and web search (experimental)
 * https://github.com/nomic-ai/gpt4all - Basic UI that replicated ChatGPT
 * https://github.com/imartinez/privateGPT - Basic UI that replicated ChatGPT with PDF integration
+* [big-AGI](https://github.com/enricoros/big-AGI)
 
 More from the comments (Haven't tested myself) :
 * https://github.com/LostRuins/koboldcpp - Easy to install and simple interface
