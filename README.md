@@ -38,7 +38,7 @@ All models: [HuggingFace](https://huggingface.co/PygmalionAI), Most popular of w
 
 **Language-Vision models**
 
-* LLaVA - trained on LLaMA 2
+* LLaVA - trained on LLaMA 2. Current biggest version is [LLaVA-1.6-34B](https://huggingface.co/liuhaotian/llava-v1.6-34b), and LLaVA-NEXT has a [paper](https://llava-vl.github.io/blog/2024-01-30-llava-next/).
 * BakLLaVA-1 - fine-tuned on Mistral
 
 
