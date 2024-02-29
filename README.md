@@ -82,6 +82,9 @@ The full list of UIs can be found in [Deployment and UI](deployment-and-ui.md).
 
 ## Personality specifications for AIs
 
+Current generation of LLMs can have issues like repeatition and losing the character after a number of requests. This is currently being addressed by the community. 
+*(As of Feb 2024)*
+
 #### W++
 The format example:
 
