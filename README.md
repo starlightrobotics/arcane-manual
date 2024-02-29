@@ -70,56 +70,15 @@ Recommendations for levels as of February 2024:
 
 Some of the UIs, like SillyTavern, also have APIs, that can be used for own coding projects and automation.
 
-#### [Kobold.CPP](https://github.com/LostRuins/koboldcpp)
- <details>
-  <summary>Details</summary>
-      KoboldCpp is an easy-to-use AI text-generation software for GGML models. It's a single self contained distributable from Concedo, that builds off llama.cpp, and adds a versatile Kobold API endpoint, additional format support, backward compatibility, as well as a fancy UI with persistent stories, editing tools, save formats, memory, world info, author's note, characters, scenarios and everything Kobold and Kobold Lite have to offer.
-</details>
+The full list of UIs can be found in [Deployment and UI](deployment-and-ui.md).
 
-
-#### [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
- <details>
-  <summary>Details</summary>
-From providing user donated backends as workers, and providing an application interface for running all sort of models - it is PygmalionAI's pick for running models locally.
-
-Discord: [KoboldAI](https://koboldai.org/discord)
-
-Website: [KoboldAI](https://koboldai.org/pygmalion)
-</details>
-
-#### [TavernAI](https://github.com/TavernAI/TavernAI)
- <details>
-  <summary>Details</summary>
-The original frontend. It lacks the options for the user on their chatting experience, however it is still very usable.
-</details>
-
-#### [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) - Front-End
- <details>
-  <summary>Details</summary>
-Oobabooga is a web interface, in the same look as Stable Diffusion Web UI by Automatic1111. It has more features, and compatibility compared to KoboldAI running models locally.
-
-Discord: [Oobabooga](https://discord.gg/WKkMQYB4zu)
-</details>
-
-#### [SillyTavern](https://docs.sillytavern.app/) - Power-user Front-End
- <details>
-  <summary>Details</summary>
-An open-source frontend for running LLM models. Provides all the tools to customize your chatting experience. An extensive modification of TavernAI.
-
-Discord: [SillyTavern](https://discord.gg/sillytavern)
-
-API Documentation for [SillyTavern](https://docs.sillytavern.app/usage/api-connections/)
-</details>
-
-#### [Agnaistic](https://agnai.chat/)
- <details>
-  <summary>Details</summary>
-An open-source web based AI agnostic roleplay chat. The backend for chats: NovelAI, Horde, or other services. It can be ran locally, or use the production website.
-
-Discord: [Agnaistic (link broken)](https://discord.gg/luminai)
-</details>
-
-#### [oterm](https://github.com/ggozad/oterm) - CLI UI
+- [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) - For beginners, with a full package of chat features
+- [Kobold.CPP](https://github.com/LostRuins/koboldcpp)
+- [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
+- [TavernAI](https://github.com/TavernAI/TavernAI)
+- [SillyTavern](https://docs.sillytavern.app/) - Power-user Front-End
+- [Agnaistic](https://agnai.chat/)
+- [oterm](https://github.com/ggozad/oterm) - For those who prefer/need a CLI UI
 
 ## Personality specifications for AIs
 
