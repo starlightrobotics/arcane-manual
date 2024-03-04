@@ -4,7 +4,7 @@
 
 ARCANE Manual is a curated repository of AI Role-playing LLMs, chatbots, services, apps, interfaces, offline tools, and hardware tips. This manual provides insight for where to start, and reference links for seasoned developers.
 
-Local:
+Local essentials:
 * [Hardware](hardware.md) is needed to run LLMs locally
 * [LLM Deployment and User Interface](deployment-and-ui.md) of your own LLM
 * [Chatbot Frameworks](chatbot-frameworks.md) for public presence
