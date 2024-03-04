@@ -51,6 +51,7 @@ All models: [HuggingFace](https://huggingface.co/PygmalionAI), Most popular of w
 * Rentry: [Ayumi's LLM Role Play & ERP Ranking (NSFW)](https://rentry.co/ayumi_erp_rating)
 * [BestERP](https://besterp.ai/s/models)
 * [Rankings site for online NSFW chatbots](https://nsfw-chatbot-rankings.web.app/#/)
+* [LLM Explorer](https://llm.extractum.io/) by Extractum
 * Reddit: [Wiki by r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/wiki/models/)
 
 For awareness, the scores are NOT representative of quality of prose, performance across the entire context window (i.e. ability to effectively recall information accurately), stability (i.e. logical flow, coherence) and actual RP performance. There are many models that score well that perform very poorly with actual use 
