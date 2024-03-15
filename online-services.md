@@ -7,6 +7,7 @@
 
 ## Ranking
 * [Rankings site for online NSFW chatbots](https://nsfw-chatbot-rankings.web.app/#/)
+* [NSFW Bots List](https://www.nsfwbots.com/) (added March 2024)
 
 ## Writing Services
 * [NovelAI](https://novelai.net/) - Free trial
