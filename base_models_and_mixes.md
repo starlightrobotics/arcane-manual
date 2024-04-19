@@ -36,7 +36,7 @@ Quantization Parameters: This might provide specifics about the chosen quantizat
 
 Quantization Format: GGML (GPT-Generated Mixed List format)
 
-## Big names
+# Base names
 
 * GPT family - by OpenAI
     - GPT3 - 170B+ model, 2020
@@ -67,3 +67,6 @@ Quantization Format: GGML (GPT-Generated Mixed List format)
 
 [LLM Survey Feb 2024](https://arxiv.org/abs/2402.06196)
 
+# Mixes and Fine-tunes
+
+* OpenHermes - OpenHermes 2.5 is a 7B model, fine-tuned by Teknium on Mistral 
