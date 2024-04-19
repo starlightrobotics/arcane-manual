@@ -64,7 +64,7 @@ Recommendations for levels as of February 2024:
     20b: Emerhyst, MLewd-remm-l2-chat
     33b: Airoboros, Chronoboros
     45b: Mixtral 8x7B
-    70b+: miqu-1-70b, Euryale Inverted L2, Xwin, Synthia 1.5 - 70B outperform GPT-3.5 and aim to rival GPT4.
+    70b+: miqu-1-70b, Euryale Inverted L2, Xwin, Synthia 1.5 - 70B outperform GPT-3.5 and aim to rival GPT4. Llama3-70B (April 2024) outperforms GPT4 from April 2023.
 
 
 ## LLMs / UIs and WebUIs
