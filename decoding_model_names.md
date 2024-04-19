@@ -17,8 +17,11 @@ Context Size: This refers to the amount of text the model considers for each pre
 Quantization Format: This indicates if the model has been optimized for efficiency by converting its weights to a lower precision format. 
 
 Here are some common examples:
+
 GGML: GPT-Generated Mixed List format
+
 GGUF: GPT-Generated Unified Format
+
 GPTQ: GPT Quantization format
 
 ## Quantization Details (sometimes included):
