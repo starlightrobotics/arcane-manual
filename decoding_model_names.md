@@ -65,5 +65,5 @@ Quantization Format: GGML (GPT-Generated Mixed List format)
 * StableLM - by Stability AI that specialises in image generations with Stable Diffusion
 * Vicuna - by LMSYS, derived from Llama, at 33B is a little less powerful as GPT4
 
-
+[LLM Survey Feb 2024](https://arxiv.org/abs/2402.06196)
 
