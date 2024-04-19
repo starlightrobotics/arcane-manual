@@ -38,15 +38,32 @@ Quantization Format: GGML (GPT-Generated Mixed List format)
 
 ## Big names
 
-Freemium:
 * GPT family - by OpenAI
+    - GPT3 - 170B+ model, 2020
+    - GPT3.5
+    - GPT4, GPT4-Turbo, GPT4-V(ision)
 * Claude family - by Anthropic
+    - Claude, Claude 2, Claude 3 Haiku, Sonnet, Opus
 * Qwen family - by Alibaba
+    - Qwen
+    - Qwen-VL
 * Gemini family, Bard, PaLM family - by Google
-
-Self-hosted:
+   - PaLM (Pathways Language Model) - 540B precursor of Gemini, but also has spin-off projects like MedPaLM
+   - Gemma - opensource
+   - BERT - transformer-based
+   - Lamda - 2021
 * Mistral/Mixtral - by Mistral
+    - Mistral
+    - Mixtral
 * NeuralChat - by Intel
+* Command, Rerank and Embed - by Cohere
+* Ernie - by Baidu
+* Falcon - by Technology Innovation Institute, transformer-based
+* Orca, Phi - by Microsoft
+    - Orca - 13B competitor of GPT4
+    - Phi-1 - 1.3B, transformer-based
+* StableLM - by Stability AI that specialises in image generations with Stable Diffusion
+* Vicuna - by LMSYS, derived from Llama, at 33B is a little less powerful as GPT4
 
 
 
