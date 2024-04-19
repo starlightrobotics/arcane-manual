@@ -18,11 +18,9 @@
 
 #### Examples
 
-*GGML:* GPT-Generated Mixed List format
-
-*GGUF:* GPT-Generated Unified Format
-
-*GPTQ:* GPT Quantization format
+* *GGML:* GPT-Generated Mixed List format
+* *GGUF:* GPT-Generated Unified Format
+* *GPTQ:* GPT Quantization format
 
 ## Quantization Details (sometimes included):
 
@@ -31,11 +29,12 @@ Quantization Parameters: This might provide specifics about the chosen quantizat
 
 #### Examples
 
-*Name:* Mixtral-8x22B-Instruct-v0.1-GGML
+* *Name:* Mixtral-8x22B-Instruct-v0.1-GGML
+* *Model Name:* Mixtral
+* *Version Number:* v0.1
+* *Parameter Count:* 8x22B
 
-*Model Name:* Mixtral
-
-*Version Number:* v0.1
+Quantization Format: GGML (GPT-Generated Mixed List format)
 
 ## Big names
 
@@ -51,6 +50,3 @@ Self-hosted:
 
 
 
-*Parameter Count:* 8x22B
-
-Quantization Format: GGML (GPT-Generated Mixed List format)
