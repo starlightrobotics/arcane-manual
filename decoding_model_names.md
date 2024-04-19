@@ -37,6 +37,20 @@ Quantization Parameters: This might provide specifics about the chosen quantizat
 
 *Version Number:* v0.1
 
+## Big names
+
+Freemium:
+* GPT family - by OpenAI
+* Claude family - by Anthropic
+* Qwen family - by Alibaba
+* Gemini family, Bard, PaLM family - by Google
+
+Self-hosted:
+* Mistral/Mixtral - by Mistral
+* NeuralChat - by Intel
+
+
+
 *Parameter Count:* 8x22B
 
 Quantization Format: GGML (GPT-Generated Mixed List format)
