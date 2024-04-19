@@ -70,3 +70,4 @@ Quantization Format: GGML (GPT-Generated Mixed List format)
 # Mixes and Fine-tunes
 
 * **OpenHermes** - OpenHermes 2.5 is a 7B model, fine-tuned by Teknium on Mistral, surpasses all previous versions of **Nous-Hermes** 13B and below.
+* **Alpaca** 7B, a model fine-tuned from the **LLaMA** 7B
