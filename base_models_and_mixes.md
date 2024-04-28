@@ -67,6 +67,10 @@ Quantization Format: GGML (GPT-Generated Mixed List format)
 
 [LLM Survey Feb 2024](https://arxiv.org/abs/2402.06196)
 
+# Special models
+
+* **RWKV** - Theoretically infinite context length
+
 # Mixes and Fine-tunes
 
 * **OpenHermes** - OpenHermes 2.5 is a 7B model, fine-tuned by Teknium on Mistral, surpasses all previous versions of **Nous-Hermes** 13B and below.
