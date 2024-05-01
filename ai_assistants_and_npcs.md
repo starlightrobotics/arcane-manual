@@ -10,3 +10,4 @@
 # LLMs for AI NPCs
 
 * [Gigax Games - Runtime, LLM-powered NPCs](https://github.com/GigaxGames/gigax) - added 30 April 2024 - with own models [NPC-LLM-7B](https://huggingface.co/Gigax/NPC-LLM-7B)
+* [pyWinAssistant](https://github.com/a-real-ai/pywinassistant) - Large Action Model for Windows 10/11
