@@ -31,6 +31,7 @@ More from the comments (Haven't tested myself) :
 * Sanctum - another MacOS GUI
 
 ## Adding LLM files
+In Ooobabooga you just download models from the interface or put them into the "models" directory, and then load them.
 
 ## Adding speech synthesis (Text-To-Speech)
 * In [SillyTavern](https://docs.sillytavern.app/extras/extensions/tts/)
