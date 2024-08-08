@@ -2,6 +2,10 @@
 
 Performance by HuggingFace can be found in [🤗 LLM-Perf Leaderboard 🏋️](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)
 
+## Smartphone
+
+There are reports of people running 2B models locally on their phones using Termux. (August 2024)
+
 ## CPU/RAM vs GPU/VRAM
 
 In practice you do not need GPU for VRAM. If you have access to CPU with an equivalent VRAM, then you can get away with slower, but still functional system.
