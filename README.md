@@ -77,7 +77,7 @@ The full list of UIs can be found in [Deployment and UI](deployment-and-ui.md).
 - [Kobold.CPP](https://github.com/LostRuins/koboldcpp)
 - [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client)
 - [TavernAI](https://github.com/TavernAI/TavernAI)
-- [SillyTavern](https://docs.sillytavern.app/) - Power-user Front-End
+- [SillyTavern](https://docs.sillytavern.app/) - Power-user Front-End with SillyTavern Extras for things like image generation (so chars can send you selfies and photos) and voice generation
 - [Agnaistic](https://agnai.chat/)
 - [oterm](https://github.com/ggozad/oterm) - For those who prefer/need a CLI UI
 
