@@ -18,6 +18,7 @@
 * [law-LLM](https://huggingface.co/AdaptLLM/law-LLM) by AdaptLLM
 
 ## Finance
+In August 2024, Goldman Sachs reported to run Llama 3.1 400B model locally.
 
 * [finance-LLM](https://huggingface.co/AdaptLLM/finance-LLM) by AdaptLLM
 * [BloombergGPT](https://huggingface.co/papers/2303.17564)
