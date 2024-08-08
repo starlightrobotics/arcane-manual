@@ -41,20 +41,27 @@ Quantization Format: GGML (GPT-Generated Mixed List format)
 * GPT family - by OpenAI
     - GPT3 - 170B+ model, 2020
     - GPT3.5
-    - GPT4, GPT4-Turbo, GPT4-V(ision)
+    - GPT4, GPT4-Turbo, GPT4-V(ision), GPT-4o (Omni)
 * Claude family - by Anthropic
-    - Claude, Claude 2, Claude 3 Haiku, Sonnet, Opus
+    - Claude, Claude 2, Claude 3 Haiku, Sonnet, Opus, Claude 3.5
 * Qwen family - by Alibaba
     - Qwen
-    - Qwen-VL
+    - Qwen-VL, Qwen-VL-Max
 * Gemini family, Bard, PaLM family - by Google
    - PaLM (Pathways Language Model) - 540B precursor of Gemini, but also has spin-off projects like MedPaLM
    - Gemma - opensource
    - BERT - transformer-based
    - Lamda - 2021
+   - Gemini Pro
 * Mistral/Mixtral - by Mistral
     - Mistral
     - Mixtral
+* LLama - by Meta
+    - Llama (24 February 2023) - 2048 context
+    - Llama 2
+    - Code Llama
+    - Llama 3 - 8,192 context
+    - Llama 3.1 (23 July 2024) - 8B, 70.6B, 405B - 128,000 context
 * NeuralChat - by Intel
 * Command, Rerank and Embed - by Cohere
 * Ernie - by Baidu
@@ -75,4 +82,4 @@ Quantization Format: GGML (GPT-Generated Mixed List format)
 
 * **OpenHermes** - OpenHermes 2.5 is a 7B model, fine-tuned by Teknium on Mistral, surpasses all previous versions of **Nous-Hermes** 13B and below.
 * **Alpaca** 7B, a model fine-tuned from the **LLaMA** 7B
-* **Moistral** and **Cream-Phi** - Fine-tuned Mistral and Phi by [TheDrummer](https://huggingface.co/TheDrummer)
+* **Moistral**, **Cream-Phi**, **Gemmasutra** - Fine-tuned Mistral and Phi by [TheDrummer](https://huggingface.co/TheDrummer)
