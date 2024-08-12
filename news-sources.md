@@ -1,3 +1,3 @@
 # AI news sources
 
-* [FutureTools by Matt Wolfe](https://www.futuretools.io/news)
+* [FutureTools](https://www.futuretools.io/news) -  by Matt Wolfe
