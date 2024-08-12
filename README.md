@@ -58,6 +58,7 @@ For awareness, the scores are NOT representative of quality of prose, performanc
 For example, in October 2023, Mythomax scores worse, but is better than a majority of the models that score better than it.
 
 Recommendations for beginner level to get you started, as of August 2024:
+
     <7B: Phi-3
     7b: Neural Chat V3, Mistral 7B (v0.3 - 22/05/2024), Llama 3.1 8B
     13b: Mythomax and its variants, Athena
