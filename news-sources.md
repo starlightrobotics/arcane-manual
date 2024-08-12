@@ -17,4 +17,5 @@
 ## Named corporations
 * [Google AI Blog](https://blog.google/technology/ai/)
 * [OpenAI Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+* [Anthropic Newsroom](https://www.anthropic.com/news)
 * [Meta AI Blog](https://ai.meta.com/blog/)
