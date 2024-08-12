@@ -59,9 +59,9 @@ For example, in October 2023, Mythomax scores worse, but is better than a majori
 
 Recommendations for levels as of April 2024:
     <7B: Phi-3
-    7b: Neural Chat V3, Mistral 7B, Llama 3 8B
+    7b: Neural Chat V3, Mistral 7B (v0.3 - 22/05/2024), Llama 3.1 8B
     13b: Mythomax and its variants, Athena
-    20b: Emerhyst, MLewd-remm-l2-chat
+    20b: Emerhyst, MLewd-remm-l2-chat, Beyonder 4x7B
     33b: Airoboros, Chronoboros
     45b: Mixtral 8x7B
     70b+: miqu-1-70b, Euryale Inverted L2, Xwin, Synthia 1.5 - 70B outperform GPT-3.5 and aim to rival GPT4. Llama3-70B (April 2024) outperforms GPT4 from April 2023.
