@@ -6,6 +6,12 @@ Performance by HuggingFace can be found in [🤗 LLM-Perf Leaderboard 🏋️](h
 
 There are reports of people running 2B models locally on their phones using Termux. (August 2024)
 
+Some of the apps already provide out-of-the-box capability to just run a local model.
+
+* Layla lite (for free) and Layla
+
+*(contact me on reddit if you want me to add your app here)*
+  
 ## CPU/RAM vs GPU/VRAM
 
 In practice you do not need GPU for VRAM. If you have access to CPU with an equivalent VRAM, then you can get away with slower, but still functional system.
