@@ -66,6 +66,7 @@ Recommendations for beginner level to get you started, as of August 2024:
     33b: Airoboros, Chronoboros
     45b: Mixtral 8x7B
     70b+: miqu-1-70b, Euryale Inverted L2, Xwin, Synthia 1.5, Qwen2 - 70B outperform GPT-3.5 and aim to rival GPT4. Llama3-70B (April 2024) outperforms GPT4 from April 2023.
+    Extra Large: Falcon 180B, Llama3.1 405B
 
 
 ## LLMs / UIs and WebUIs
