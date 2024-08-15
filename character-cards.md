@@ -8,6 +8,10 @@ Very detailed manual can be found here [Ali:Chat Style (v1.5)](https://rentry.co
 
 Sample prompts and character sheets by [Botprompts](https://botprompts.net/)
 
+#### Collections
+5,000 character cards with detailed worldbuilding info, lore, and story outlines:
+[TheatreLM-v2.1-Characters](https://huggingface.co/datasets/G-reen/TheatreLM-v2.1-Characters)
+
 #### W++
 The format example:
 
