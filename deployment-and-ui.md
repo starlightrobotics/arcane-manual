@@ -2,6 +2,8 @@
 
 You need a model and an interface of your choice.
 
+RAG - Retreival-Augmented Generation.
+
 ## Curated lists of UIs
 * [JShollaj's Awesome LLM WebUIs](https://github.com/JShollaj/Awesome-LLM-Web-UI)
 
