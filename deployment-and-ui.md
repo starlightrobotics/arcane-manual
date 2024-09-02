@@ -17,8 +17,11 @@ You need a model and an interface of your choice.
 * https://github.com/imartinez/privateGPT - Basic UI that replicated ChatGPT with PDF integration
 * [Telemate](https://github.com/vegu-ai/talemate) - Focus on strong world, narration, and state tracking
 
-More from the comments (Haven't tested myself) :
+With citations and RAG:
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - UI with a search engine, that can use local LLMs, just like Perplexity, but local
+* [OpenPerplex Backend OS](https://github.com/YassKhazzan/openperplex_backend_os) - 
+
+More from the comments (Haven't tested myself) :
 * https://github.com/LostRuins/koboldcpp - Easy to install and simple interface
 * LM Studio - Clean UI, focuses on GGUF format
 * https://github.com/lobehub/lobe-chat - Nice rich UI with the ability to load extensions for web search, TTS and more
