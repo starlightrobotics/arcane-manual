@@ -19,3 +19,6 @@
     * q5_0 = 32 numbers in chunk, 5 bits per weight, 1 scale value at 16-bit float, size is 5.5 bits per weight
     * q5_1 = 32 numbers in a chunk, 5 bits per weight, 1 scale value at 16 bit float and 1 bias value at 16 bit, size is 6 bits per weight.
     * q8_0 = same as q4_0, except 8 bits per weight, 1 scale value at 32 bits, making total of 9 bits per weight.
+
+7. **What is RAG and do I need it?**
+   RAG - is a Retreival-Augmented Generation. The interface queries the search engines and double-checkes the facts, and cites the source, if needed. If you need increased precision and citations, this is a feature that you need.
