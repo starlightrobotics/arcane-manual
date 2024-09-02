@@ -18,6 +18,7 @@ You need a model and an interface of your choice.
 * [Telemate](https://github.com/vegu-ai/talemate) - Focus on strong world, narration, and state tracking
 
 More from the comments (Haven't tested myself) :
+* [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - UI with a search engine, that can use local LLMs, just like Perplexity, but local
 * https://github.com/LostRuins/koboldcpp - Easy to install and simple interface
 * LM Studio - Clean UI, focuses on GGUF format
 * https://github.com/lobehub/lobe-chat - Nice rich UI with the ability to load extensions for web search, TTS and more
