@@ -43,6 +43,8 @@ Be mindful that vision models typically use GPU only, and not CPU. At least in m
 * BakLLaVA - fine-tuned on Mistral
 * InternVL
 * QwenVL
+* Pixtral
+* Phi Vision
 
 
 ## LLMs / Lists and Ranking
