@@ -47,6 +47,7 @@ All models: [HuggingFace](https://huggingface.co/PygmalionAI), Most popular of w
 * GitHub: [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 
 * HF: [🤗 Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+* HF: [Uncensored General Intelligence Leaderboard](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard)
 * Rentry: [Another LLM Roleplay Rankings](https://rentry.co/ALLMRR)
 * Rentry: [Ayumi's LLM Role Play & ERP Ranking (NSFW)](https://rentry.co/ayumi_erp_rating)  - last updated 2023-11-21
 * [BestERP](https://besterp.ai/s/models)
