@@ -63,9 +63,8 @@ Be mindful that vision models typically use GPU only, and not CPU. At least in m
 For awareness, the scores are NOT representative of quality of prose, performance across the entire context window (i.e. ability to effectively recall information accurately), stability (i.e. logical flow, coherence) and actual RP performance. There are many models that score well that perform very poorly with actual use 
 For example, in October 2023, Mythomax scores worse, but is better than a majority of the models that score better than it.
 
-Recommendations for beginner level to get you started, as of August 2024:
-
-    <7B: Phi-3, Gemma-2 2B
+Recommendations for beginner level to get you started, as of October 2024 (we now have popular mobile models too):
+    mini: Phi mini family, Gemma 2B, Ministral 3B
     7b: Neural Chat V3, Mistral 7B (v0.3 - 22/05/2024), Llama 3.1 8B
     13b: Mythomax and its variants, Athena
     20b: Emerhyst, MLewd-remm-l2-chat, Beyonder 4x7B
