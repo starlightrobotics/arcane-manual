@@ -66,12 +66,11 @@ For example, in October 2023, Mythomax scores worse, but is better than a majori
 Recommendations for beginner level to get you started, as of October 2024 (we now have popular mobile models too):
     mini: Phi mini family, Gemma 2B, Ministral 3B
     7b: Neural Chat V3, Mistral 7B (v0.3 - 22/05/2024), Llama 3.1 8B
-    13b: Mythomax and its variants, Athena
-    20b: Emerhyst, MLewd-remm-l2-chat, Beyonder 4x7B
-    33b: Airoboros, Chronoboros
-    45b: Mixtral 8x7B
-    70b+: miqu-1-70b, Euryale Inverted L2, Xwin, Synthia 1.5, Qwen2 - 70B outperform GPT-3.5 and aim to rival GPT4. Llama3-70B (April 2024) outperforms GPT4 from April 2023.
-    Extra Large: Falcon 180B, Llama3.1 405B
+    13b: Mistral Nemo 12B
+    20b: Beyonder 4x7B
+    33b: Mistral Small 22B, Gemma 27b, Command R 32B, Qwen 2.5 32B
+    70b+: Llama 3.1 70B, Qwen 2.5 72B. Llama3-70B (April 2024) outperforms GPT4 from April 2023.
+    Extra Large: Command R+ 103B, Mistral Large 123B, Llama3.1 405B
 
 
 ## LLMs / UIs and WebUIs
