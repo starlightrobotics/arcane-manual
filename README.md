@@ -64,6 +64,7 @@ For awareness, the scores are NOT representative of quality of prose, performanc
 For example, in October 2023, Mythomax scores worse, but is better than a majority of the models that score better than it.
 
 Recommendations for beginner level to get you started, as of October 2024 (we now have popular mobile models too):
+```
     mini: Phi mini family, Gemma 2B, Ministral 3B
     7b: Neural Chat V3, Mistral 7B (v0.3 - 22/05/2024), Llama 3.1 8B
     13b: Mistral Nemo 12B
@@ -72,7 +73,7 @@ Recommendations for beginner level to get you started, as of October 2024 (we no
     70b+: Llama 3.1 70B, Qwen 2.5 72B. Llama3-70B (April 2024) outperforms GPT4 from April 2023.
     Drummer's Endurance 100B v1 - PRUNED Mistral Large 2407 123B 
     Extra Large: Command R+ 103B, Mistral Large 123B, Llama3.1 405B
-
+```
 
 ## LLMs / UIs and WebUIs
 
