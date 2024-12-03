@@ -70,6 +70,7 @@ Recommendations for beginner level to get you started, as of October 2024 (we no
     20b: Beyonder 4x7B
     33b: Mistral Small 22B, Gemma 27b, Command R 32B, Qwen 2.5 32B
     70b+: Llama 3.1 70B, Qwen 2.5 72B. Llama3-70B (April 2024) outperforms GPT4 from April 2023.
+    Drummer's Endurance 100B v1 - PRUNED Mistral Large 2407 123B 
     Extra Large: Command R+ 103B, Mistral Large 123B, Llama3.1 405B
 
 
