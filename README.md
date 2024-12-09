@@ -55,8 +55,6 @@ Be mindful that vision models typically use GPU only, and not CPU. At least in m
 * HF: [Uncensored General Intelligence Leaderboard](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard)
 * Rentry: [Another LLM Roleplay Rankings](https://rentry.co/ALLMRR)
 * Rentry: [Ayumi's LLM Role Play & ERP Ranking (NSFW)](https://rentry.co/ayumi_erp_rating)  - last updated 2023-11-21
-* [BestERP](https://besterp.ai/s/models)
-* [Rankings site for online NSFW chatbots](https://nsfw-chatbot-rankings.web.app/#/)
 * [LLM Explorer](https://llm.extractum.io/) by Extractum
 * Reddit: [Wiki by r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/wiki/models/)
 
@@ -70,7 +68,7 @@ Recommendations for beginner level to get you started, as of October 2024 (we no
     13b: Mistral Nemo 12B
     20b: Beyonder 4x7B
     33b: Mistral Small 22B, Gemma 27b, Command R 32B, Qwen 2.5 32B
-    70b+: Llama 3.1 70B, Qwen 2.5 72B. Llama3-70B (April 2024) outperforms GPT4 from April 2023.
+    70b+: Llama 3.3 70B, Qwen 2.5 72B. For the reference, Llama3-70B (April 2024) outperforms GPT4 from April 2023. And in December 2023 Llama 3.3 outperforms Llama3 405B.
     Drummer's Endurance 100B v1 - PRUNED Mistral Large 2407 123B 
     Extra Large: Command R+ 103B, Mistral Large 123B, Llama3.1 405B
 ```
