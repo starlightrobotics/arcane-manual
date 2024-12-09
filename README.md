@@ -53,8 +53,6 @@ Be mindful that vision models typically use GPU only, and not CPU. At least in m
 
 * HF: [🤗 Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 * HF: [Uncensored General Intelligence Leaderboard](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard)
-* Rentry: [Another LLM Roleplay Rankings](https://rentry.co/ALLMRR)
-* Rentry: [Ayumi's LLM Role Play & ERP Ranking (NSFW)](https://rentry.co/ayumi_erp_rating)  - last updated 2023-11-21
 * [LLM Explorer](https://llm.extractum.io/) by Extractum
 * Reddit: [Wiki by r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/wiki/models/)
 
