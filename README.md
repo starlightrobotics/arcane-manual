@@ -65,7 +65,7 @@ Recommendations for beginner level to get you started, as of October 2024 (we no
     7b: Neural Chat V3, Mistral 7B (v0.3 - 22/05/2024), Llama 3.1 8B
     13b: Mistral Nemo 12B
     20b: Beyonder 4x7B
-    33b: Mistral Small 22B, Gemma 27b, Command R 32B, Qwen 2.5 32B
+    33b: Mistral Small 22B, Gemma 27b, Command R 32B, Qwen 2.5 32B, DeepSeek 32B R1 (in January 2025 this is the best model you can run on 24Gb)
     70b+: Llama 3.3 70B, Qwen 2.5 72B. For the reference, Llama3-70B (April 2024) outperforms GPT4 from April 2023. And in December 2023 Llama 3.3 outperforms Llama3 405B.
     Drummer's Endurance 100B v1 - PRUNED Mistral Large 2407 123B 
     Extra Large: Command R+ 103B, Mistral Large 123B, Llama3.1 405B
