@@ -59,13 +59,12 @@ Be mindful that vision models typically use GPU only, and not CPU. At least in m
 For awareness, the scores are NOT representative of quality of prose, performance across the entire context window (i.e. ability to effectively recall information accurately), stability (i.e. logical flow, coherence) and actual RP performance. There are many models that score well that perform very poorly with actual use 
 For example, in October 2023, Mythomax scores worse, but is better than a majority of the models that score better than it.
 
-Recommendations for beginner level to get you started, as of October 2024 (we now have popular mobile models too):
+Recommendations for beginner level to get you started (we now have popular mobile models too):
 ```
-    mini: Phi mini family, Gemma 2B, Ministral 3B
+    mini: Phi mini family, Gemma 2B, Ministral 3B, Qwen-2.5 0.5B, Smoll 0.36B (those are barely coherent, but this is the smallest size possible to use as of April 2025)
     7b: Neural Chat V3, Mistral 7B (v0.3 - 22/05/2024), Llama 3.1 8B
     13b: Mistral Nemo 12B
-    20b: Beyonder 4x7B
-    33b: Mistral Small 22B, Gemma 27b, Command R 32B, Qwen 2.5 32B, DeepSeek 32B R1 (in January 2025 this is the best model you can run on 24Gb)
+    20b-30b: Beyonder 4x7B (2024), Gemma 3 27B finetunes (Q4 fits into 11-12Gb VRAM)
     70b+: Llama 3.3 70B, Qwen 2.5 72B. For the reference, Llama3-70B (April 2024) outperforms GPT4 from April 2023. And in December 2023 Llama 3.3 outperforms Llama3 405B.
     Drummer's Endurance 100B v1 - PRUNED Mistral Large 2407 123B 
     Extra Large: Command R+ 103B, Mistral Large 123B, Llama3.1 405B
